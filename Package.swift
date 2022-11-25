@@ -21,7 +21,7 @@ let package = Package(
         .target(
             name: "FEKYC-iOS",
             dependencies: []),
-        .binaryTarget(name: "FEKYC", path: "FEKYC.xcframework"),
+        .binaryTarget(name: "FEKYC", path: "Sources/FEKYC.xcframework"),
         .testTarget(
             name: "FEKYC-iOSTests",
             dependencies: ["FEKYC-iOS"]),

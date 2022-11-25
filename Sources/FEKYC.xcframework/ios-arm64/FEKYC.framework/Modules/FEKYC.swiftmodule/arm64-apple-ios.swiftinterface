@@ -1,0 +1,261 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)
+// swift-module-flags: -target arm64-apple-ios14.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name FEKYC
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import AVFoundation
+import Combine
+import Contacts
+import CoreGraphics
+import CoreImage
+@_exported import FEKYC
+import Foundation
+import MobileCoreServices
+import Network
+import Photos
+import Swift
+import UIKit.UIFont
+import UIKit
+import Vision
+import _Concurrency
+import _StringProcessing
+import os.log
+import os
+@objc public enum EKYCHTTPStatusCode : Swift.Int, Swift.Error {
+  @objc public enum ResponseType : Swift.Int {
+    case informational
+    case success
+    case redirection
+    case clientError
+    case serverError
+    case undefined
+    public init?(rawValue: Swift.Int)
+    public typealias RawValue = Swift.Int
+    public var rawValue: Swift.Int {
+      get
+    }
+  }
+  case `continue` = 100
+  case switchingProtocols = 101
+  case processing = 102
+  case ok = 200
+  case created = 201
+  case accepted = 202
+  case nonAuthoritativeInformation = 203
+  case noContent = 204
+  case resetContent = 205
+  case partialContent = 206
+  case multiStatus = 207
+  case alreadyReported = 208
+  case IMUsed = 226
+  case multipleChoices = 300
+  case movedPermanently = 301
+  case found = 302
+  case seeOther = 303
+  case notModified = 304
+  case useProxy = 305
+  case switchProxy = 306
+  case temporaryRedirect = 307
+  case permenantRedirect = 308
+  case badRequest = 400
+  case unauthorized = 401
+  case paymentRequired = 402
+  case forbidden = 403
+  case notFound = 404
+  case methodNotAllowed = 405
+  case notAcceptable = 406
+  case proxyAuthenticationRequired = 407
+  case requestTimeout = 408
+  case conflict = 409
+  case gone = 410
+  case lengthRequired = 411
+  case preconditionFailed = 412
+  case payloadTooLarge = 413
+  case URITooLong = 414
+  case unsupportedMediaType = 415
+  case rangeNotSatisfiable = 416
+  case expectationFailed = 417
+  case teapot = 418
+  case misdirectedRequest = 421
+  case unprocessableEntity = 422
+  case locked = 423
+  case failedDependency = 424
+  case upgradeRequired = 426
+  case preconditionRequired = 428
+  case tooManyRequests = 429
+  case requestHeaderFieldsTooLarge = 431
+  case noResponse = 444
+  case unavailableForLegalReasons = 451
+  case SSLCertificateError = 495
+  case SSLCertificateRequired = 496
+  case HTTPRequestSentToHTTPSPort = 497
+  case clientClosedRequest = 499
+  case internalServerError = 500
+  case notImplemented = 501
+  case badGateway = 502
+  case serviceUnavailable = 503
+  case gatewayTimeout = 504
+  case HTTPVersionNotSupported = 505
+  case variantAlsoNegotiates = 506
+  case insufficientStorage = 507
+  case loopDetected = 508
+  case notExtended = 510
+  case networkAuthenticationRequired = 511
+  public var responseType: FEKYC.EKYCHTTPStatusCode.ResponseType {
+    get
+  }
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public static var _nsErrorDomain: Swift.String {
+    get
+  }
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+extension UIKit.UIApplication {
+  @_Concurrency.MainActor(unsafe) public func topMostViewController() -> UIKit.UIViewController?
+}
+public struct EKYCMultipartFormDataChars {
+}
+public struct EKYCMultipartFormDataMimeType {
+}
+public protocol MultipartFormDataBuilderType {
+  var boundary: Swift.String { get }
+  func build() -> Foundation.Data
+}
+public protocol MultipartFormDataType {
+  func getData(boundary: Swift.String) -> Foundation.Data
+}
+public struct MultipartFormData : FEKYC.MultipartFormDataType {
+  public enum Provider {
+    case string(Swift.String)
+    case data(Foundation.Data)
+    case file(Foundation.URL)
+  }
+  public init(provider: FEKYC.MultipartFormData.Provider, name: Swift.String, fileName: Swift.String? = nil, mimeType: Swift.String? = nil)
+  public func getData(boundary: Swift.String) -> Foundation.Data
+}
+public enum EkycTypeDocument : Swift.Int {
+  case idCard
+  case passport
+  case licenseDriver
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+extension Foundation.JSONDecoder {
+  public static var shared: Foundation.JSONDecoder
+}
+extension Foundation.JSONEncoder {
+  public static var shared: Foundation.JSONEncoder
+}
+@objc final public class EKYCHTTPClient : ObjectiveC.NSObject {
+  public init(config: Foundation.URLSessionConfiguration = .default)
+  final public func dataTask<R, T>(url: Swift.String, path: Swift.String? = nil, headers: [Swift.String : Swift.String] = [:], params: [Swift.String : Any] = [:], body: R?, method: FEKYC.EKYCHTTPMethod = .get, encoder: Foundation.JSONEncoder = .shared, decoder: Foundation.JSONDecoder = .shared) throws -> T where R : Swift.Encodable, T : Swift.Decodable
+  final public func multipartDataTask<T>(url: Swift.String, path: Swift.String? = nil, headers: [Swift.String : Swift.String] = [:], params: [Swift.String : Any] = [:], multiparts: [FEKYC.MultipartFormDataType]?, method: FEKYC.EKYCHTTPMethod = .get, decoder: Foundation.JSONDecoder = .shared) throws -> T where T : Swift.Decodable
+  final public func dataTask<T>(url: Swift.String, path: Swift.String? = nil, headers: [Swift.String : Swift.String] = [:], params: [Swift.String : Any] = [:], method: FEKYC.EKYCHTTPMethod = .get, decoder: Foundation.JSONDecoder = .shared) throws -> T where T : Swift.Decodable
+  @objc deinit
+}
+@objc public protocol FEKYCDelegate {
+  @objc func didEKYCSuccess(sessionId: Swift.String)
+}
+extension UIKit.UIImage {
+  public static func getImage(name: Swift.String) -> UIKit.UIImage
+  convenience public init?(named name: Swift.String, aClass: Swift.AnyClass)
+  public func imageFromLayer(layer: QuartzCore.CALayer) -> UIKit.UIImage?
+}
+public enum EKYCAPIErrorCode : Swift.Int {
+  case urlNil
+  case httpBodyNil
+  case indexOutOfBounce
+  case noStatusCode
+  case noReturnData
+  case decodeReceivedDataFail
+  case response
+  case unknow
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+@objc @_inheritsConvenienceInitializers public class EKYCAPIError : Foundation.NSError {
+  public var message: Swift.String? {
+    get
+  }
+  public var status: FEKYC.EKYCHTTPStatusCode? {
+    get
+  }
+  public var codeType: FEKYC.EKYCAPIErrorCode {
+    get
+  }
+  public var payload: Any? {
+    get
+  }
+  convenience public init(code: Swift.Int, status: FEKYC.EKYCHTTPStatusCode? = nil, message: Swift.String? = nil, payload: Any? = nil)
+  convenience public init(_ error: Foundation.NSError)
+  @objc override dynamic public init(domain: Swift.String, code: Swift.Int, userInfo dict: [Swift.String : Any]? = nil)
+  @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+public enum EKYCHTTPMethod : Swift.String {
+  case get
+  case put
+  case post
+  case patch
+  case delete
+  case head
+  case options
+  case trace
+  case connect
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+@objc @_inheritsConvenienceInitializers @objcMembers public class FEKYC : ObjectiveC.NSObject {
+  @objc public static func instance() -> FEKYC.FEKYC
+  @objc weak public var delegate: FEKYC.FEKYCDelegate?
+  @objc public static func config()
+  @objc public func start()
+  @objc override dynamic public init()
+  @objc deinit
+}
+public class EKYCLogger {
+  public enum Subsystem : Swift.String {
+    case general
+    case networking
+    case heartbeat
+    case callKit
+    public init?(rawValue: Swift.String)
+    public typealias RawValue = Swift.String
+    public var rawValue: Swift.String {
+      get
+    }
+  }
+  public init(prependString: Swift.String, subsystem: FEKYC.EKYCLogger.Subsystem)
+  public func log(_ messages: Any...)
+  public func log(_ message: Swift.String)
+  @objc deinit
+}
+extension FEKYC.EKYCHTTPStatusCode : Swift.Equatable {}
+extension FEKYC.EKYCHTTPStatusCode : Swift.Hashable {}
+extension FEKYC.EKYCHTTPStatusCode : Swift.RawRepresentable {}
+extension FEKYC.EKYCHTTPStatusCode.ResponseType : Swift.Equatable {}
+extension FEKYC.EKYCHTTPStatusCode.ResponseType : Swift.Hashable {}
+extension FEKYC.EKYCHTTPStatusCode.ResponseType : Swift.RawRepresentable {}
+extension FEKYC.EkycTypeDocument : Swift.Equatable {}
+extension FEKYC.EkycTypeDocument : Swift.Hashable {}
+extension FEKYC.EkycTypeDocument : Swift.RawRepresentable {}
+extension FEKYC.EKYCAPIErrorCode : Swift.Equatable {}
+extension FEKYC.EKYCAPIErrorCode : Swift.Hashable {}
+extension FEKYC.EKYCAPIErrorCode : Swift.RawRepresentable {}
+extension FEKYC.EKYCHTTPMethod : Swift.Equatable {}
+extension FEKYC.EKYCHTTPMethod : Swift.Hashable {}
+extension FEKYC.EKYCHTTPMethod : Swift.RawRepresentable {}
+extension FEKYC.EKYCLogger.Subsystem : Swift.Equatable {}
+extension FEKYC.EKYCLogger.Subsystem : Swift.Hashable {}
+extension FEKYC.EKYCLogger.Subsystem : Swift.RawRepresentable {}
