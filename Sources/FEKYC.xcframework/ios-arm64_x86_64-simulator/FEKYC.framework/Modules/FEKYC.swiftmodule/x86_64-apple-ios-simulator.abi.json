@@ -2138,3367 +2138,3381 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Colors.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Colors.swift",
       "kind": "StringLiteral",
       "offset": 671,
       "length": 11,
       "value": "\"Assert 20\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Colors.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Colors.swift",
       "kind": "StringLiteral",
       "offset": 732,
       "length": 8,
       "value": "\"Assert\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Colors.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Colors.swift",
       "kind": "StringLiteral",
       "offset": 792,
       "length": 10,
       "value": "\"BlackAAA\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Colors.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Colors.swift",
       "kind": "StringLiteral",
       "offset": 853,
       "length": 9,
       "value": "\"Disable\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Colors.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Colors.swift",
       "kind": "StringLiteral",
       "offset": 912,
       "length": 8,
       "value": "\"GrayAA\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Colors.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Colors.swift",
       "kind": "StringLiteral",
       "offset": 971,
       "length": 9,
       "value": "\"Primary\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Colors.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Colors.swift",
       "kind": "StringLiteral",
       "offset": 1033,
       "length": 11,
       "value": "\"Primary20\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Colors.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Colors.swift",
       "kind": "StringLiteral",
       "offset": 1091,
       "length": 5,
       "value": "\"Red\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Colors.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Colors.swift",
       "kind": "StringLiteral",
       "offset": 1150,
       "length": 12,
       "value": "\"SecondText\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Colors.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Colors.swift",
       "kind": "StringLiteral",
       "offset": 1212,
       "length": 8,
       "value": "\"WhiteA\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Colors.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Colors.swift",
       "kind": "StringLiteral",
       "offset": 1274,
       "length": 12,
       "value": "\"background\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Colors.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Colors.swift",
       "kind": "StringLiteral",
       "offset": 1337,
       "length": 10,
       "value": "\"bg_error\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Colors.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Colors.swift",
       "kind": "StringLiteral",
       "offset": 1395,
       "length": 6,
       "value": "\"mint\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Colors.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Colors.swift",
       "kind": "StringLiteral",
       "offset": 1927,
       "length": 43,
       "value": "\"Unable to load color asset named \""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Colors.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Colors.swift",
       "kind": "StringLiteral",
       "offset": 1968,
       "length": 1,
       "value": "\".\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Utils\/EKYCKeyboardTracker.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Utils\/EKYCKeyboardTracker.swift",
       "kind": "BooleanLiteral",
       "offset": 1300,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Utils\/EKYCKeyboardTracker.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Utils\/EKYCKeyboardTracker.swift",
       "kind": "BooleanLiteral",
       "offset": 1208,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Utils\/EKYCKeyboardTracker.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Utils\/EKYCKeyboardTracker.swift",
       "kind": "BooleanLiteral",
       "offset": 1381,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Utils\/EKYCKeyboardTracker.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Utils\/EKYCKeyboardTracker.swift",
       "kind": "BooleanLiteral",
       "offset": 1427,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Utils\/EKYCKeyboardTracker.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Utils\/EKYCKeyboardTracker.swift",
       "kind": "BooleanLiteral",
       "offset": 1527,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1034,
       "length": 7,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1183,
       "length": 11,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1330,
       "length": 11,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1477,
       "length": 11,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1577,
       "length": 9,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1034,
       "length": 7,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1183,
       "length": 11,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1330,
       "length": 11,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1477,
       "length": 11,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1577,
       "length": 9,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1034,
       "length": 7,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1183,
       "length": 11,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1330,
       "length": 11,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1477,
       "length": 11,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1577,
       "length": 9,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1778,
       "length": 3,
       "value": "100"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1934,
       "length": 3,
       "value": "101"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2097,
       "length": 3,
       "value": "102"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2214,
       "length": 3,
       "value": "200"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2334,
       "length": 3,
       "value": "201"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2468,
       "length": 3,
       "value": "202"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2713,
       "length": 3,
       "value": "203"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2840,
       "length": 3,
       "value": "204"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2974,
       "length": 3,
       "value": "205"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 3139,
       "length": 3,
       "value": "206"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 3337,
       "length": 3,
       "value": "207"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 3525,
       "length": 3,
       "value": "208"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 3741,
       "length": 3,
       "value": "226"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 3917,
       "length": 3,
       "value": "300"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 4044,
       "length": 3,
       "value": "301"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 4107,
       "length": 3,
       "value": "302"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 4231,
       "length": 3,
       "value": "303"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 4419,
       "length": 3,
       "value": "304"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 4573,
       "length": 3,
       "value": "305"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 4710,
       "length": 3,
       "value": "306"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 4822,
       "length": 3,
       "value": "307"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 4959,
       "length": 3,
       "value": "308"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 5132,
       "length": 3,
       "value": "400"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 5313,
       "length": 3,
       "value": "401"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 5426,
       "length": 3,
       "value": "402"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 5551,
       "length": 3,
       "value": "403"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 5674,
       "length": 3,
       "value": "404"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 5871,
       "length": 3,
       "value": "405"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 6055,
       "length": 3,
       "value": "406"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 6196,
       "length": 3,
       "value": "407"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 6299,
       "length": 3,
       "value": "408"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 6494,
       "length": 3,
       "value": "409"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 6625,
       "length": 3,
       "value": "410"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 6782,
       "length": 3,
       "value": "411"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 6936,
       "length": 3,
       "value": "412"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 7064,
       "length": 3,
       "value": "413"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 7170,
       "length": 3,
       "value": "414"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 7322,
       "length": 3,
       "value": "415"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 7495,
       "length": 3,
       "value": "416"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 7634,
       "length": 3,
       "value": "417"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 7735,
       "length": 3,
       "value": "418"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 7877,
       "length": 3,
       "value": "421"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 8026,
       "length": 3,
       "value": "422"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 8114,
       "length": 3,
       "value": "423"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 8252,
       "length": 3,
       "value": "424"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 8412,
       "length": 3,
       "value": "426"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 8539,
       "length": 3,
       "value": "428"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 8661,
       "length": 3,
       "value": "429"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 8888,
       "length": 3,
       "value": "431"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 9039,
       "length": 3,
       "value": "444"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 9258,
       "length": 3,
       "value": "451"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 9441,
       "length": 3,
       "value": "495"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 9626,
       "length": 3,
       "value": "496"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 9843,
       "length": 3,
       "value": "497"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 9995,
       "length": 3,
       "value": "499"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 10221,
       "length": 3,
       "value": "500"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 10383,
       "length": 3,
       "value": "501"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 10535,
       "length": 3,
       "value": "502"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 10726,
       "length": 3,
       "value": "503"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 10891,
       "length": 3,
       "value": "504"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 11041,
       "length": 3,
       "value": "505"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 11193,
       "length": 3,
       "value": "506"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 11341,
       "length": 3,
       "value": "507"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 11461,
       "length": 3,
       "value": "508"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 11589,
       "length": 3,
       "value": "510"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 11733,
       "length": 3,
       "value": "511"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1778,
       "length": 3,
       "value": "100"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1934,
       "length": 3,
       "value": "101"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2097,
       "length": 3,
       "value": "102"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2214,
       "length": 3,
       "value": "200"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2334,
       "length": 3,
       "value": "201"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2468,
       "length": 3,
       "value": "202"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2713,
       "length": 3,
       "value": "203"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2840,
       "length": 3,
       "value": "204"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2974,
       "length": 3,
       "value": "205"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 3139,
       "length": 3,
       "value": "206"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 3337,
       "length": 3,
       "value": "207"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 3525,
       "length": 3,
       "value": "208"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 3741,
       "length": 3,
       "value": "226"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 3917,
       "length": 3,
       "value": "300"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 4044,
       "length": 3,
       "value": "301"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 4107,
       "length": 3,
       "value": "302"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 4231,
       "length": 3,
       "value": "303"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 4419,
       "length": 3,
       "value": "304"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 4573,
       "length": 3,
       "value": "305"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 4710,
       "length": 3,
       "value": "306"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 4822,
       "length": 3,
       "value": "307"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 4959,
       "length": 3,
       "value": "308"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 5132,
       "length": 3,
       "value": "400"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 5313,
       "length": 3,
       "value": "401"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 5426,
       "length": 3,
       "value": "402"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 5551,
       "length": 3,
       "value": "403"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 5674,
       "length": 3,
       "value": "404"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 5871,
       "length": 3,
       "value": "405"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 6055,
       "length": 3,
       "value": "406"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 6196,
       "length": 3,
       "value": "407"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 6299,
       "length": 3,
       "value": "408"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 6494,
       "length": 3,
       "value": "409"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 6625,
       "length": 3,
       "value": "410"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 6782,
       "length": 3,
       "value": "411"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 6936,
       "length": 3,
       "value": "412"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 7064,
       "length": 3,
       "value": "413"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 7170,
       "length": 3,
       "value": "414"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 7322,
       "length": 3,
       "value": "415"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 7495,
       "length": 3,
       "value": "416"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 7634,
       "length": 3,
       "value": "417"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 7735,
       "length": 3,
       "value": "418"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 7877,
       "length": 3,
       "value": "421"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 8026,
       "length": 3,
       "value": "422"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 8114,
       "length": 3,
       "value": "423"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 8252,
       "length": 3,
       "value": "424"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 8412,
       "length": 3,
       "value": "426"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 8539,
       "length": 3,
       "value": "428"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 8661,
       "length": 3,
       "value": "429"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 8888,
       "length": 3,
       "value": "431"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 9039,
       "length": 3,
       "value": "444"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 9258,
       "length": 3,
       "value": "451"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 9441,
       "length": 3,
       "value": "495"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 9626,
       "length": 3,
       "value": "496"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 9843,
       "length": 3,
       "value": "497"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 9995,
       "length": 3,
       "value": "499"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 10221,
       "length": 3,
       "value": "500"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 10383,
       "length": 3,
       "value": "501"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 10535,
       "length": 3,
       "value": "502"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 10726,
       "length": 3,
       "value": "503"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 10891,
       "length": 3,
       "value": "504"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 11041,
       "length": 3,
       "value": "505"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 11193,
       "length": 3,
       "value": "506"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 11341,
       "length": 3,
       "value": "507"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 11461,
       "length": 3,
       "value": "508"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 11589,
       "length": 3,
       "value": "510"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 11733,
       "length": 3,
       "value": "511"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1778,
       "length": 3,
       "value": "100"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1934,
       "length": 3,
       "value": "101"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2097,
       "length": 3,
       "value": "102"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2214,
       "length": 3,
       "value": "200"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2334,
       "length": 3,
       "value": "201"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2468,
       "length": 3,
       "value": "202"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2713,
       "length": 3,
       "value": "203"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2840,
       "length": 3,
       "value": "204"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2974,
       "length": 3,
       "value": "205"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 3139,
       "length": 3,
       "value": "206"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 3337,
       "length": 3,
       "value": "207"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 3525,
       "length": 3,
       "value": "208"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 3741,
       "length": 3,
       "value": "226"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 3917,
       "length": 3,
       "value": "300"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 4044,
       "length": 3,
       "value": "301"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 4107,
       "length": 3,
       "value": "302"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 4231,
       "length": 3,
       "value": "303"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 4419,
       "length": 3,
       "value": "304"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 4573,
       "length": 3,
       "value": "305"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 4710,
       "length": 3,
       "value": "306"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 4822,
       "length": 3,
       "value": "307"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 4959,
       "length": 3,
       "value": "308"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 5132,
       "length": 3,
       "value": "400"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 5313,
       "length": 3,
       "value": "401"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 5426,
       "length": 3,
       "value": "402"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 5551,
       "length": 3,
       "value": "403"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 5674,
       "length": 3,
       "value": "404"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 5871,
       "length": 3,
       "value": "405"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 6055,
       "length": 3,
       "value": "406"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 6196,
       "length": 3,
       "value": "407"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 6299,
       "length": 3,
       "value": "408"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 6494,
       "length": 3,
       "value": "409"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 6625,
       "length": 3,
       "value": "410"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 6782,
       "length": 3,
       "value": "411"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 6936,
       "length": 3,
       "value": "412"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 7064,
       "length": 3,
       "value": "413"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 7170,
       "length": 3,
       "value": "414"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 7322,
       "length": 3,
       "value": "415"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 7495,
       "length": 3,
       "value": "416"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 7634,
       "length": 3,
       "value": "417"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 7735,
       "length": 3,
       "value": "418"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 7877,
       "length": 3,
       "value": "421"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 8026,
       "length": 3,
       "value": "422"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 8114,
       "length": 3,
       "value": "423"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 8252,
       "length": 3,
       "value": "424"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 8412,
       "length": 3,
       "value": "426"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 8539,
       "length": 3,
       "value": "428"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 8661,
       "length": 3,
       "value": "429"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 8888,
       "length": 3,
       "value": "431"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 9039,
       "length": 3,
       "value": "444"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 9258,
       "length": 3,
       "value": "451"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 9441,
       "length": 3,
       "value": "495"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 9626,
       "length": 3,
       "value": "496"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 9843,
       "length": 3,
       "value": "497"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 9995,
       "length": 3,
       "value": "499"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 10221,
       "length": 3,
       "value": "500"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 10383,
       "length": 3,
       "value": "501"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 10535,
       "length": 3,
       "value": "502"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 10726,
       "length": 3,
       "value": "503"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 10891,
       "length": 3,
       "value": "504"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 11041,
       "length": 3,
       "value": "505"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 11193,
       "length": 3,
       "value": "506"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 11341,
       "length": 3,
       "value": "507"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 11461,
       "length": 3,
       "value": "508"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 11589,
       "length": 3,
       "value": "510"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPStatusCode.swift",
       "kind": "IntegerLiteral",
       "offset": 11733,
       "length": 3,
       "value": "511"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Capture\/Detection\/EKYCBaseDetectionViewModel.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Capture\/Detection\/EKYCBaseDetectionViewModel.swift",
       "kind": "Array",
-      "offset": 394,
+      "offset": 323,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Capture\/Detection\/EKYCBaseDetectionViewModel.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Capture\/Detection\/EKYCBaseDetectionViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 562,
+      "offset": 491,
       "length": 23,
       "value": "\"ai.ftech.ekyc.monitor\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Capture\/Detection\/EKYCBaseDetectionViewModel.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Capture\/Detection\/EKYCBaseDetectionViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 617,
+      "offset": 546,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Capture\/Detection\/EKYCBaseDetectionViewModel.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Capture\/Detection\/EKYCBaseDetectionViewModel.swift",
       "kind": "Array",
-      "offset": 690,
+      "offset": 619,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Capture\/Detection\/EKYCBaseDetectionViewModel.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Capture\/Detection\/EKYCBaseDetectionViewModel.swift",
       "kind": "StringLiteral",
       "offset": 140,
       "length": 26,
       "value": "\"FEKYC.EKYCBaseDetectionViewModel\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/BottomSheet\/EKYCBottomSheetTransitioning.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/BottomSheet\/EKYCBottomSheetTransitioning.swift",
       "kind": "BooleanLiteral",
       "offset": 514,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/BottomSheet\/EKYCBottomSheetTransitioning.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/BottomSheet\/EKYCBottomSheetTransitioning.swift",
       "kind": "BooleanLiteral",
       "offset": 691,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/BottomSheet\/EKYCBottomSheetTransitioning.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/BottomSheet\/EKYCBottomSheetTransitioning.swift",
       "kind": "StringLiteral",
       "offset": 119,
       "length": 36,
       "value": "\"FEKYC.EKYCBottomSheetTransitioningDelegate\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/FEKYCConfig.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/FEKYCConfig.swift",
       "kind": "StringLiteral",
       "offset": 165,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/FEKYCConfig.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/FEKYCConfig.swift",
       "kind": "StringLiteral",
       "offset": 199,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Confirm\/ReviewPhotograph\/EKYCReviewPhotographViewModel.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Confirm\/ReviewPhotograph\/EKYCReviewPhotographViewModel.swift",
       "kind": "Array",
       "offset": 337,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Confirm\/ReviewPhotograph\/EKYCReviewPhotographViewModel.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Confirm\/ReviewPhotograph\/EKYCReviewPhotographViewModel.swift",
       "kind": "StringLiteral",
       "offset": 125,
       "length": 29,
       "value": "\"FEKYC.EKYCReviewPhotographViewModel\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 203,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
       "kind": "FloatLiteral",
       "offset": 266,
       "length": 4,
       "value": "0.25"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
       "kind": "FloatLiteral",
       "offset": 293,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
       "kind": "FloatLiteral",
       "offset": 318,
       "length": 4,
       "value": "0.75"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 343,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 203,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
       "kind": "FloatLiteral",
       "offset": 266,
       "length": 4,
       "value": "0.25"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
       "kind": "FloatLiteral",
       "offset": 293,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
       "kind": "FloatLiteral",
       "offset": 318,
       "length": 4,
       "value": "0.75"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 343,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 203,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
       "kind": "FloatLiteral",
       "offset": 266,
       "length": 4,
       "value": "0.25"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
       "kind": "FloatLiteral",
       "offset": 293,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
       "kind": "FloatLiteral",
       "offset": 318,
       "length": 4,
       "value": "0.75"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 343,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1636,
       "length": 2,
       "value": "24"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1814,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 2394,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseBottomSheetViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 2558,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCMultipartFormDataBuilder.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCMultipartFormDataBuilder.swift",
       "kind": "StringLiteral",
       "offset": 257,
       "length": 6,
       "value": "\"\r\n\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCMultipartFormDataBuilder.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCMultipartFormDataBuilder.swift",
       "kind": "StringLiteral",
       "offset": 344,
       "length": 26,
       "value": "\"application\/octet-stream\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCMultipartFormDataBuilder.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCMultipartFormDataBuilder.swift",
       "kind": "StringLiteral",
       "offset": 574,
       "length": 30,
       "value": "\"networking.boundary.%08x%08x\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseTableViewCell.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseTableViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 495,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseTableViewCell.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseTableViewCell.swift",
       "kind": "StringLiteral",
       "offset": 555,
       "length": 8,
       "value": "\"E9ECF7\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/InfomationDocument\/EKYCInfomationDocumentViewModel.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/InfomationDocument\/EKYCInfomationDocumentViewModel.swift",
       "kind": "Array",
       "offset": 465,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Utils\/UIView+Exts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Utils\/UIView+Exts.swift",
       "kind": "IntegerLiteral",
       "offset": 2848,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Domain\/Service\/EKYCFileService.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Domain\/Service\/EKYCFileService.swift",
       "kind": "BooleanLiteral",
       "offset": 1044,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Capture\/CameraView\/EKYCAccessoryCameraView.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/InfomationDocument\/EKYCInfomationDocumentViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 543,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/InfomationDocument\/EKYCInfomationDocumentViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 598,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Capture\/CameraView\/EKYCAccessoryCameraView.swift",
       "kind": "BooleanLiteral",
       "offset": 1163,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/InfomationDocument\/DatePicker\/EKYCDatePickerViewModel.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/InfomationDocument\/DatePicker\/EKYCDatePickerViewModel.swift",
       "kind": "StringLiteral",
       "offset": 123,
       "length": 23,
       "value": "\"FEKYC.EKYCDatePickerViewModel\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Domain\/EkycTypeDocument.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Domain\/EkycTypeDocument.swift",
       "kind": "IntegerLiteral",
       "offset": 159,
       "length": 8,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Domain\/EkycTypeDocument.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Domain\/EkycTypeDocument.swift",
       "kind": "IntegerLiteral",
       "offset": 177,
       "length": 13,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Domain\/EkycTypeDocument.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Domain\/EkycTypeDocument.swift",
       "kind": "IntegerLiteral",
       "offset": 159,
       "length": 8,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Domain\/EkycTypeDocument.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Domain\/EkycTypeDocument.swift",
       "kind": "IntegerLiteral",
       "offset": 177,
       "length": 13,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Domain\/EkycTypeDocument.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Domain\/EkycTypeDocument.swift",
       "kind": "IntegerLiteral",
       "offset": 159,
       "length": 8,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Domain\/EkycTypeDocument.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Domain\/EkycTypeDocument.swift",
       "kind": "IntegerLiteral",
       "offset": 177,
       "length": 13,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 289,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 911,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 917,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseViewController.swift",
       "kind": "FloatLiteral",
       "offset": 927,
       "length": 5,
       "value": "100.0"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseViewController.swift",
       "kind": "FloatLiteral",
       "offset": 942,
       "length": 5,
       "value": "100.0"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseViewController.swift",
       "kind": "FloatLiteral",
       "offset": 1081,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1123,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1162,
       "length": 2,
       "value": "12"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseViewController.swift",
       "kind": "StringLiteral",
       "offset": 126,
       "length": 22,
       "value": "\"FEKYC.EKYCBaseViewController\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/EKYCAppConstants.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/EKYCAppConstants.swift",
       "kind": "StringLiteral",
       "offset": 156,
       "length": 218,
       "value": "\"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCKvWIEhxiogTnaK9e7xH3UxhLPB73BafhsQSyt1eG5+3AbM3Nb4L974d6I41mPuF7OX\/iBjxkX3qoHmEv0TnJCauBXuVt2irQ4mKx+Yyu1pi1YxH4xqKBIM37zNMsnC8k1upZ3LSBjjUf5xJLx+QVrZ5T1i2pBUUHOJcjIfkS8mQIDAQAB\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/EKYCAppConstants.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/EKYCAppConstants.swift",
       "kind": "StringLiteral",
       "offset": 403,
       "length": 7,
       "value": "\"front\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/EKYCAppConstants.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/EKYCAppConstants.swift",
       "kind": "StringLiteral",
       "offset": 438,
       "length": 6,
       "value": "\"back\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/EKYCAppConstants.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/EKYCAppConstants.swift",
       "kind": "StringLiteral",
       "offset": 472,
       "length": 6,
       "value": "\"face\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/EKYCAppConstants.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/EKYCAppConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 528,
       "length": 4,
       "value": "5398"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/EKYCAppConstants.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/EKYCAppConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 535,
       "length": 4,
       "value": "8560"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/EKYCAppConstants.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/EKYCAppConstants.swift",
       "kind": "FloatLiteral",
       "offset": 610,
       "length": 5,
       "value": "0.035"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/InfomationDocument\/View\/EKYCInfomationDocumentTableViewCell.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/InfomationDocument\/View\/EKYCInfomationDocumentTableViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 703,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Repo\/Common\/EKYCBaseRepo.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Repo\/Common\/EKYCBaseRepo.swift",
       "kind": "StringLiteral",
       "offset": 543,
       "length": 16,
       "value": "\"yyyyMMddHHmmss\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Repo\/Common\/EKYCBaseRepo.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Repo\/Common\/EKYCBaseRepo.swift",
       "kind": "StringLiteral",
       "offset": 756,
       "length": 25,
       "value": "\"Invalid date: \""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Repo\/Common\/EKYCBaseRepo.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Repo\/Common\/EKYCBaseRepo.swift",
       "kind": "StringLiteral",
       "offset": 780,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Repo\/Common\/EKYCBaseRepo.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Repo\/Common\/EKYCBaseRepo.swift",
       "kind": "IntegerLiteral",
       "offset": 930,
       "length": 2,
       "value": "60"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Repo\/Common\/EKYCBaseRepo.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Repo\/Common\/EKYCBaseRepo.swift",
       "kind": "Dictionary",
       "offset": 1994,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Repo\/Common\/EKYCBaseRepo.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Repo\/Common\/EKYCBaseRepo.swift",
       "kind": "Dictionary",
       "offset": 2055,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Repo\/Common\/EKYCBaseRepo.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Repo\/Common\/EKYCBaseRepo.swift",
       "kind": "Dictionary",
       "offset": 3108,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Repo\/Common\/EKYCBaseRepo.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Repo\/Common\/EKYCBaseRepo.swift",
       "kind": "Dictionary",
       "offset": 3183,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Repo\/Common\/EKYCBaseRepo.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Repo\/Common\/EKYCBaseRepo.swift",
       "kind": "Dictionary",
       "offset": 4453,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Repo\/Common\/EKYCBaseRepo.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Repo\/Common\/EKYCBaseRepo.swift",
       "kind": "Dictionary",
       "offset": 4514,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Repo\/Common\/EKYCBaseRepo.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Repo\/Common\/EKYCBaseRepo.swift",
       "kind": "Array",
       "offset": 4589,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Capture\/PreviewPhotoError\/EKYCPreviewPhotoErrorViewModel.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Capture\/PreviewPhotoError\/EKYCPreviewPhotoErrorViewModel.swift",
       "kind": "StringLiteral",
       "offset": 111,
       "length": 30,
       "value": "\"FEKYC.EKYCPreviewPhotoErrorViewModel\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Domain\/EKYCInfomationDocument.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Domain\/EKYCInfomationDocument.swift",
       "kind": "IntegerLiteral",
       "offset": 422,
       "length": 4,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Domain\/EKYCInfomationDocument.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Domain\/EKYCInfomationDocument.swift",
       "kind": "IntegerLiteral",
       "offset": 440,
       "length": 7,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Domain\/EKYCInfomationDocument.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Domain\/EKYCInfomationDocument.swift",
       "kind": "IntegerLiteral",
       "offset": 422,
       "length": 4,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Domain\/EKYCInfomationDocument.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Domain\/EKYCInfomationDocument.swift",
       "kind": "IntegerLiteral",
       "offset": 440,
       "length": 7,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Domain\/EKYCInfomationDocument.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Domain\/EKYCInfomationDocument.swift",
       "kind": "IntegerLiteral",
       "offset": 422,
       "length": 4,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Domain\/EKYCInfomationDocument.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Domain\/EKYCInfomationDocument.swift",
       "kind": "IntegerLiteral",
       "offset": 440,
       "length": 7,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Common\/Localization\/EKYCLocalizationService.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Common\/Localization\/EKYCLocalizationService.swift",
       "kind": "StringLiteral",
       "offset": 216,
       "length": 31,
       "value": "\"_localization_currentLanguage\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Common\/Localization\/EKYCLocalizationService.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Common\/Localization\/EKYCLocalizationService.swift",
       "kind": "StringLiteral",
       "offset": 309,
       "length": 6,
       "value": "\"Base\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Common\/Localization\/EKYCLocalizationService.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Common\/Localization\/EKYCLocalizationService.swift",
       "kind": "BooleanLiteral",
       "offset": 718,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Common\/Localization\/EKYCLocalizationService.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Common\/Localization\/EKYCLocalizationService.swift",
       "kind": "BooleanLiteral",
       "offset": 2504,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Common\/Localization\/EKYCLocalizationService.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Common\/Localization\/EKYCLocalizationService.swift",
       "kind": "BooleanLiteral",
       "offset": 3151,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Common\/Localization\/EKYCLocalizationService.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Common\/Localization\/EKYCLocalizationService.swift",
       "kind": "BooleanLiteral",
       "offset": 3607,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Common\/Localization\/EKYCLocalizationService.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Common\/Localization\/EKYCLocalizationService.swift",
       "kind": "StringLiteral",
       "offset": 4418,
       "length": 46,
       "value": "\"_localizationServiceDidChangeCurrentLanguage\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Widgets\/FTAlertViewController \/FTAlertViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Widgets\/FTAlertViewController \/FTAlertViewController.swift",
       "kind": "StringLiteral",
       "offset": 1731,
       "length": 21,
       "value": "\"FEKYC.FTAlertViewController\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPClient.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPClient.swift",
       "kind": "IntegerLiteral",
       "offset": 152,
       "length": 4,
       "value": "1500"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPClient.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPClient.swift",
       "kind": "Dictionary",
       "offset": 4993,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPClient.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPClient.swift",
       "kind": "Dictionary",
       "offset": 5075,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPClient.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPClient.swift",
       "kind": "Dictionary",
       "offset": 7239,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPClient.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPClient.swift",
       "kind": "Dictionary",
       "offset": 7321,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPClient.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPClient.swift",
       "kind": "Dictionary",
       "offset": 9221,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPClient.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPClient.swift",
       "kind": "Dictionary",
       "offset": 9289,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPClient.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPClient.swift",
       "kind": "StringLiteral",
       "offset": 185,
       "length": 14,
       "value": "\"FEKYC.EKYCHTTPClient\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Widgets\/FTDialogViewController\/FTDialogViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Widgets\/FTDialogViewController\/FTDialogViewController.swift",
       "kind": "Array",
       "offset": 430,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Widgets\/FTDialogViewController\/FTDialogViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Widgets\/FTDialogViewController\/FTDialogViewController.swift",
       "kind": "StringLiteral",
       "offset": 1528,
       "length": 22,
       "value": "\"FEKYC.FTDialogViewController\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/InfomationDocument\/Selection\/EKYCSelectionViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/InfomationDocument\/Selection\/EKYCSelectionViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 768,
       "length": 2,
       "value": "70"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/InfomationDocument\/Selection\/EKYCSelectionViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/InfomationDocument\/Selection\/EKYCSelectionViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 811,
       "length": 2,
       "value": "52"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/InfomationDocument\/Selection\/EKYCSelectionViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/InfomationDocument\/Selection\/EKYCSelectionViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 888,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Utils\/String+Exts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Utils\/String+Exts.swift",
       "kind": "IntegerLiteral",
       "offset": 1042,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/InfomationDocument\/Selection\/EKYCSelectionItem.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/InfomationDocument\/Selection\/EKYCSelectionItem.swift",
       "kind": "BooleanLiteral",
       "offset": 178,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/InfomationDocument\/Selection\/EKYCSelectionViewModel.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/InfomationDocument\/Selection\/EKYCSelectionViewModel.swift",
       "kind": "Array",
       "offset": 274,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/InfomationDocument\/Selection\/EKYCSelectionViewModel.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/InfomationDocument\/Selection\/EKYCSelectionViewModel.swift",
       "kind": "Array",
       "offset": 320,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/InfomationDocument\/Selection\/EKYCSelectionViewModel.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/InfomationDocument\/Selection\/EKYCSelectionViewModel.swift",
       "kind": "StringLiteral",
       "offset": 124,
       "length": 22,
       "value": "\"FEKYC.EKYCSelectionViewModel\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Confirm\/EKYCConfirmViewModel.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Confirm\/EKYCConfirmViewModel.swift",
       "kind": "Array",
       "offset": 291,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Confirm\/EKYCConfirmViewModel.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Confirm\/EKYCConfirmViewModel.swift",
       "kind": "StringLiteral",
       "offset": 115,
       "length": 20,
       "value": "\"FEKYC.EKYCConfirmViewModel\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
       "kind": "StringLiteral",
       "offset": 131,
       "length": 15,
       "value": "\"kErrorMessage\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
       "kind": "IntegerLiteral",
       "offset": 204,
       "length": 4,
       "value": "900"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
       "kind": "IntegerLiteral",
       "offset": 232,
       "length": 4,
       "value": "901"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
       "kind": "IntegerLiteral",
       "offset": 265,
       "length": 4,
       "value": "902"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
       "kind": "IntegerLiteral",
       "offset": 294,
       "length": 4,
       "value": "903"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
       "kind": "IntegerLiteral",
       "offset": 323,
       "length": 4,
       "value": "904"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
       "kind": "IntegerLiteral",
       "offset": 362,
       "length": 4,
       "value": "905"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
       "kind": "IntegerLiteral",
       "offset": 387,
       "length": 4,
       "value": "906"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
       "kind": "IntegerLiteral",
       "offset": 410,
       "length": 5,
       "value": "1000"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
       "kind": "IntegerLiteral",
       "offset": 204,
       "length": 1,
       "value": "900"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
       "kind": "IntegerLiteral",
       "offset": 232,
       "length": 1,
       "value": "901"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
       "kind": "IntegerLiteral",
       "offset": 265,
       "length": 1,
       "value": "902"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
       "kind": "IntegerLiteral",
       "offset": 294,
       "length": 1,
       "value": "903"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
       "kind": "IntegerLiteral",
       "offset": 323,
       "length": 1,
       "value": "904"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
       "kind": "IntegerLiteral",
       "offset": 362,
       "length": 1,
       "value": "905"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
       "kind": "IntegerLiteral",
       "offset": 387,
       "length": 1,
       "value": "906"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
       "kind": "IntegerLiteral",
       "offset": 410,
       "length": 1,
       "value": "1000"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
       "kind": "IntegerLiteral",
       "offset": 204,
       "length": 1,
       "value": "900"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
       "kind": "IntegerLiteral",
       "offset": 232,
       "length": 1,
       "value": "901"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
       "kind": "IntegerLiteral",
       "offset": 265,
       "length": 1,
       "value": "902"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
       "kind": "IntegerLiteral",
       "offset": 294,
       "length": 1,
       "value": "903"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
       "kind": "IntegerLiteral",
       "offset": 323,
       "length": 1,
       "value": "904"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
       "kind": "IntegerLiteral",
       "offset": 362,
       "length": 1,
       "value": "905"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
       "kind": "IntegerLiteral",
       "offset": 387,
       "length": 1,
       "value": "906"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCAPIError.swift",
       "kind": "IntegerLiteral",
       "offset": 410,
       "length": 1,
       "value": "1000"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Common\/Localization\/EKYCSupportedLanguage.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Common\/Localization\/EKYCSupportedLanguage.swift",
       "kind": "StringLiteral",
       "offset": 158,
       "length": 4,
       "value": "\"vi\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Common\/Localization\/EKYCSupportedLanguage.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Common\/Localization\/EKYCSupportedLanguage.swift",
       "kind": "StringLiteral",
       "offset": 182,
       "length": 4,
       "value": "\"en\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Common\/Localization\/EKYCSupportedLanguage.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Common\/Localization\/EKYCSupportedLanguage.swift",
       "kind": "StringLiteral",
       "offset": 158,
       "length": 4,
       "value": "\"vi\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Common\/Localization\/EKYCSupportedLanguage.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Common\/Localization\/EKYCSupportedLanguage.swift",
       "kind": "StringLiteral",
       "offset": 182,
       "length": 4,
       "value": "\"en\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/BottomSheet\/EKYCBottomSheetInteractiveDismissalTransition.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/BottomSheet\/EKYCBottomSheetInteractiveDismissalTransition.swift",
       "kind": "IntegerLiteral",
       "offset": 236,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/BottomSheet\/EKYCBottomSheetInteractiveDismissalTransition.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/BottomSheet\/EKYCBottomSheetInteractiveDismissalTransition.swift",
       "kind": "FloatLiteral",
       "offset": 288,
       "length": 4,
       "value": "0.25"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/BottomSheet\/EKYCBottomSheetInteractiveDismissalTransition.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/BottomSheet\/EKYCBottomSheetInteractiveDismissalTransition.swift",
       "kind": "FloatLiteral",
       "offset": 342,
       "length": 4,
       "value": "0.15"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/BottomSheet\/EKYCBottomSheetInteractiveDismissalTransition.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/BottomSheet\/EKYCBottomSheetInteractiveDismissalTransition.swift",
       "kind": "BooleanLiteral",
       "offset": 649,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Capture\/CameraView\/EKYCCameraView.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Capture\/CameraView\/EKYCCameraView.swift",
       "kind": "FloatLiteral",
       "offset": 360,
       "length": 5,
       "value": "0.035"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Capture\/CameraView\/EKYCCameraView.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Capture\/CameraView\/EKYCCameraView.swift",
       "kind": "FloatLiteral",
       "offset": 429,
       "length": 3,
       "value": "0.9"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Capture\/CameraView\/EKYCCameraView.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Capture\/CameraView\/EKYCCameraView.swift",
       "kind": "StringLiteral",
       "offset": 133,
       "length": 14,
       "value": "\"FEKYC.EKYCCameraView\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 665,
       "length": 3,
       "value": "\"1\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 714,
       "length": 3,
       "value": "\"2\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 767,
       "length": 9,
       "value": "\"bg_cell\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 826,
       "length": 9,
       "value": "\"bg_dark\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 886,
       "length": 10,
       "value": "\"bg_intro\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 945,
       "length": 8,
       "value": "\"bg_nav\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 1009,
       "length": 16,
       "value": "\"ic_ unverified\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 1080,
       "length": 15,
       "value": "\"ic_arrow_down\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 1150,
       "length": 15,
       "value": "\"ic_arrow_left\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 1221,
       "length": 16,
       "value": "\"ic_arrow_right\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 1287,
       "length": 9,
       "value": "\"ic_back\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 1350,
       "length": 13,
       "value": "\"ic_calendar\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 1415,
       "length": 11,
       "value": "\"ic_camera\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 1486,
       "length": 20,
       "value": "\"ic_capture_disable\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 1565,
       "length": 19,
       "value": "\"ic_capture_enable\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 1635,
       "length": 10,
       "value": "\"ic_close\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 1700,
       "length": 15,
       "value": "\"ic_close_dark\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 1766,
       "length": 10,
       "value": "\"ic_cycle\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 1832,
       "length": 15,
       "value": "\"ic_disconnect\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 1897,
       "length": 9,
       "value": "\"ic_edit\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 1956,
       "length": 9,
       "value": "\"ic_flas\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 2019,
       "length": 14,
       "value": "\"ic_flash_off\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 2086,
       "length": 13,
       "value": "\"ic_flash_on\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 2150,
       "length": 10,
       "value": "\"ic_guide\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 2212,
       "length": 11,
       "value": "\"ic_idCard\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 2274,
       "length": 10,
       "value": "\"ic_intro\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 2343,
       "length": 18,
       "value": "\"ic_licenseDriver\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 2411,
       "length": 9,
       "value": "\"ic_line\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 2474,
       "length": 13,
       "value": "\"ic_passport\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 2540,
       "length": 12,
       "value": "\"ic_preview\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 2604,
       "length": 11,
       "value": "\"ic_search\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 2667,
       "length": 11,
       "value": "\"ic_verify\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 2731,
       "length": 12,
       "value": "\"ic_warning\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 2803,
       "length": 21,
       "value": "\"img_person_ glasses\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 2885,
       "length": 22,
       "value": "\"img_person_face_mask\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Images.swift",
       "kind": "StringLiteral",
       "offset": 2957,
       "length": 9,
       "value": "\"img_sun\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseTableView.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseTableView.swift",
       "kind": "StringLiteral",
       "offset": 195,
       "length": 8,
       "value": "\"CBCBCB\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseTableView.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/EKYCBaseTableView.swift",
       "kind": "StringLiteral",
       "offset": 110,
       "length": 17,
       "value": "\"FEKYC.EKYCBaseTableView\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
       "kind": "StringLiteral",
       "offset": 162,
       "length": 5,
       "value": "\"GET\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
       "kind": "StringLiteral",
       "offset": 190,
       "length": 5,
       "value": "\"PUT\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
       "kind": "StringLiteral",
       "offset": 218,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
       "kind": "StringLiteral",
       "offset": 247,
       "length": 7,
       "value": "\"PATCH\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
       "kind": "StringLiteral",
       "offset": 277,
       "length": 8,
       "value": "\"DELETE\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
       "kind": "StringLiteral",
       "offset": 308,
       "length": 6,
       "value": "\"HEAD\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
       "kind": "StringLiteral",
       "offset": 337,
       "length": 9,
       "value": "\"OPTIONS\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
       "kind": "StringLiteral",
       "offset": 369,
       "length": 7,
       "value": "\"TRACE\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
       "kind": "StringLiteral",
       "offset": 399,
       "length": 9,
       "value": "\"CONNECT\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
       "kind": "StringLiteral",
       "offset": 162,
       "length": 5,
       "value": "\"GET\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
       "kind": "StringLiteral",
       "offset": 190,
       "length": 5,
       "value": "\"PUT\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
       "kind": "StringLiteral",
       "offset": 218,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
       "kind": "StringLiteral",
       "offset": 247,
       "length": 7,
       "value": "\"PATCH\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
       "kind": "StringLiteral",
       "offset": 277,
       "length": 8,
       "value": "\"DELETE\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
       "kind": "StringLiteral",
       "offset": 308,
       "length": 6,
       "value": "\"HEAD\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
       "kind": "StringLiteral",
       "offset": 337,
       "length": 9,
       "value": "\"OPTIONS\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
       "kind": "StringLiteral",
       "offset": 369,
       "length": 7,
       "value": "\"TRACE\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/EKYCHTTPMethod.swift",
       "kind": "StringLiteral",
       "offset": 399,
       "length": 9,
       "value": "\"CONNECT\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Domain\/Service\/EKYCCameraDetectionService.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Domain\/Service\/EKYCCameraDetectionService.swift",
       "kind": "FloatLiteral",
-      "offset": 567,
+      "offset": 672,
       "length": 3,
       "value": "0.9"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Domain\/Service\/EKYCCameraDetectionService.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Domain\/Service\/EKYCCameraDetectionService.swift",
       "kind": "FloatLiteral",
-      "offset": 607,
+      "offset": 712,
       "length": 3,
       "value": "0.1"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/BottomSheet\/EKYCBottomSheetPresentationController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/BottomSheet\/EKYCBottomSheetPresentationController.swift",
       "kind": "IntegerLiteral",
       "offset": 340,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/BottomSheet\/EKYCBottomSheetPresentationController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/BottomSheet\/EKYCBottomSheetPresentationController.swift",
       "kind": "BooleanLiteral",
       "offset": 809,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/BottomSheet\/EKYCBottomSheetPresentationController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/BottomSheet\/EKYCBottomSheetPresentationController.swift",
       "kind": "BooleanLiteral",
       "offset": 994,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/BottomSheet\/EKYCBottomSheetPresentationController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/BottomSheet\/EKYCBottomSheetPresentationController.swift",
       "kind": "StringLiteral",
       "offset": 128,
       "length": 37,
       "value": "\"FEKYC.EKYCBottomSheetPresentationController\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Capture\/Detection\/EKYCBaseDetectionViewController.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Presenter\/Capture\/Detection\/EKYCBaseDetectionViewController.swift",
       "kind": "StringLiteral",
       "offset": 135,
       "length": 31,
       "value": "\"FEKYC.EKYCBaseDetectionViewController\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 670,
       "length": 14,
       "value": "\"Roboto-Black\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 694,
       "length": 8,
       "value": "\"Roboto\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 710,
       "length": 18,
       "value": "\"Roboto-Black.ttf\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 790,
       "length": 20,
       "value": "\"Roboto-BlackItalic\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 820,
       "length": 8,
       "value": "\"Roboto\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 836,
       "length": 24,
       "value": "\"Roboto-BlackItalic.ttf\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 915,
       "length": 13,
       "value": "\"Roboto-Bold\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 938,
       "length": 8,
       "value": "\"Roboto\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 954,
       "length": 17,
       "value": "\"Roboto-Bold.ttf\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 1032,
       "length": 19,
       "value": "\"Roboto-BoldItalic\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 1061,
       "length": 8,
       "value": "\"Roboto\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 1077,
       "length": 23,
       "value": "\"Roboto-BoldItalic.ttf\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 1157,
       "length": 15,
       "value": "\"Roboto-Italic\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 1182,
       "length": 8,
       "value": "\"Roboto\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 1198,
       "length": 19,
       "value": "\"Roboto-Italic.ttf\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 1273,
       "length": 14,
       "value": "\"Roboto-Light\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 1297,
       "length": 8,
       "value": "\"Roboto\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 1313,
       "length": 18,
       "value": "\"Roboto-Light.ttf\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 1393,
       "length": 20,
       "value": "\"Roboto-LightItalic\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 1423,
       "length": 8,
       "value": "\"Roboto\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 1439,
       "length": 24,
       "value": "\"Roboto-LightItalic.ttf\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 1520,
       "length": 15,
       "value": "\"Roboto-Medium\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 1545,
       "length": 8,
       "value": "\"Roboto\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 1561,
       "length": 19,
       "value": "\"Roboto-Medium.ttf\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 1643,
       "length": 21,
       "value": "\"Roboto-MediumItalic\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 1674,
       "length": 8,
       "value": "\"Roboto\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 1690,
       "length": 25,
       "value": "\"Roboto-MediumItalic.ttf\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 1773,
       "length": 16,
       "value": "\"Roboto-Regular\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 1799,
       "length": 8,
       "value": "\"Roboto\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 1815,
       "length": 20,
       "value": "\"Roboto-Regular.ttf\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 1890,
       "length": 13,
       "value": "\"Roboto-Thin\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 1913,
       "length": 8,
       "value": "\"Roboto\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 1929,
       "length": 17,
       "value": "\"Roboto-Thin.ttf\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 2007,
       "length": 19,
       "value": "\"Roboto-ThinItalic\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 2036,
       "length": 8,
       "value": "\"Roboto\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Resources\/Values\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 2052,
       "length": 23,
       "value": "\"Roboto-ThinItalic.ttf\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Infras\/EKYCUserDefault.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Infras\/EKYCUserDefault.swift",
       "kind": "StringLiteral",
       "offset": 183,
       "length": 29,
       "value": "\"ai.ftech.ekyc.transactionId\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Infras\/EKYCUserDefault.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Main\/Infras\/EKYCUserDefault.swift",
       "kind": "StringLiteral",
       "offset": 249,
       "length": 25,
       "value": "\"ai.ftech.ekyc.timeStamp\""
     },
     {
-      "filePath": "\/Users\/chungtv\/Documents\/Project\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/Dictionary+Extension.swift",
+      "filePath": "\/Users\/andrew\/Desktop\/ekyc-ios\/FEKYC\/FEKYC\/Base\/Networking\/Dictionary+Extension.swift",
       "kind": "BooleanLiteral",
       "offset": 176,
       "length": 5,
