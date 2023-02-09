@@ -253,17 +253,17 @@ using UInt = size_t;
 #if defined(__OBJC__)
 
 @protocol FEKYCDelegate;
+@class NSString;
 
 SWIFT_CLASS("_TtC5FEKYC8FEKYCApp")
 @interface FEKYCApp : NSObject
 + (FEKYCApp * _Nonnull)instance SWIFT_WARN_UNUSED_RESULT;
 @property (nonatomic, weak) id <FEKYCDelegate> _Nullable delegate;
 + (void)config;
-- (void)start;
+- (void)startWithTransactionId:(NSString * _Nonnull)transactionId;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
-@class NSString;
 
 SWIFT_PROTOCOL("_TtP5FEKYC13FEKYCDelegate_")
 @protocol FEKYCDelegate
@@ -548,17 +548,17 @@ using UInt = size_t;
 #if defined(__OBJC__)
 
 @protocol FEKYCDelegate;
+@class NSString;
 
 SWIFT_CLASS("_TtC5FEKYC8FEKYCApp")
 @interface FEKYCApp : NSObject
 + (FEKYCApp * _Nonnull)instance SWIFT_WARN_UNUSED_RESULT;
 @property (nonatomic, weak) id <FEKYCDelegate> _Nullable delegate;
 + (void)config;
-- (void)start;
+- (void)startWithTransactionId:(NSString * _Nonnull)transactionId;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
-@class NSString;
 
 SWIFT_PROTOCOL("_TtP5FEKYC13FEKYCDelegate_")
 @protocol FEKYCDelegate

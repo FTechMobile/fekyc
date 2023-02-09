@@ -44,7 +44,7 @@ extension UIKit.UIImage {
   @objc public static func instance() -> FEKYC.FEKYCApp
   @objc weak public var delegate: FEKYC.FEKYCDelegate?
   @objc public static func config()
-  @objc public func start()
+  @objc public func start(transactionId: Swift.String)
   @objc override dynamic public init()
   @objc deinit
 }
